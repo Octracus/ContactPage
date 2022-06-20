@@ -38,7 +38,7 @@ section::before{
 
 .card::before{
     bottom: 2%;
-    left: 31%;
+    left: 35%;
     background: linear-gradient(rgb(0, 152, 240), rgb(4, 87, 211));
 }
 
